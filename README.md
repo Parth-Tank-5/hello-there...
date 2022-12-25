@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Parth-Tank-5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Parth-Tank-5.
+- 👀 I’m interested in CyberSec.
+- 🌱 I’m currently learning Ethical Hacking.
+- 📫 How to reach me - parthtank.dev@gmail.com
+                      
 
 <!---
 Parth-Tank-5/Parth-Tank-5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
